@@ -1,1 +1,32 @@
 /* You can add global styles to this file, and also import other style files */
+
+* {
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+
+@font-face {
+    font-family: FiraGo-Book;
+    src: url(/assets/fonts/Download_Folder_FiraGO_1001/Fonts/FiraGO_OTF_1001/Roman/FiraGO-Book.otf);
+}
+
+@font-face {
+    font-family: FiraGo-Heavy;
+    src: url(/assets/fonts/Download_Folder_FiraGO_1001/Fonts/FiraGO_OTF_1001/Roman/FiraGO-Heavy.otf);
+}
+
+@font-face {
+    font-family: FiraGo-Light;
+    src: url(/assets/fonts/Download_Folder_FiraGO_1001/Fonts/FiraGO_OTF_1001/Roman/FiraGO-Light.otf);
+}
+
+@font-face {
+    font-family: FiraGo-Bold;
+    src: url(/assets/fonts/Download_Folder_FiraGO_1001/Fonts/FiraGO_OTF_1001/Roman/FiraGO-Bold.otf);
+}
+
+@font-face {
+    font-family: FiraGo-ExtraLightItalic;
+    src: url(/assets/fonts/Download_Folder_FiraGO_1001/Fonts/FiraGO_OTF_1001/Italic/FiraGO-ExtraLightItalic.otf);
+}
