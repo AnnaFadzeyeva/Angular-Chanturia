@@ -30,3 +30,5 @@
     font-family: FiraGo-ExtraLightItalic;
     src: url(/assets/fonts/Download_Folder_FiraGO_1001/Fonts/FiraGO_OTF_1001/Italic/FiraGO-ExtraLightItalic.otf);
 }
+html, body { height: 100%; }
+body { margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif; }
