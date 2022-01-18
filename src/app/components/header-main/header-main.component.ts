@@ -10,6 +10,7 @@ export class HeaderMainComponent implements OnInit {
   constructor() { }
 
   ngOnInit(): void {
+    
   }
 
 }
